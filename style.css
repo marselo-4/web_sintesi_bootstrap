@@ -1,0 +1,90 @@
+/* AQUEST CODI ÉS DIFERENT AL CODI BOOTSTRAP INDEXATQUE UTILITZEM PER LA MAJORIA D'ITEMS*/
+
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+
+
+
+.botomenu{
+    margin-top: -80px;
+    margin-left: 1%;
+}
+
+.btn-p{
+    background-color: red !important;
+}
+
+.btn-p2{
+    float: right;
+    background-color: red !important;
+    margin-top: -80px;
+    margin-right: 1%;
+}
+
+.mainheader{
+    background-color: rgb(255, 255, 255);
+    height: 120px;
+}
+
+.mainheader img{
+    width: 6%;
+}
+.textparent{
+    display: grid;
+    grid-template-columns: 35% 65%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: 'Tilt Warp', cursive;
+}
+
+.texto-random1{
+    text-align: left;
+}
+
+.textparent2{
+    display: grid;
+    grid-template-columns: 55% 45%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: 'Tilt Warp', cursive;
+}
+
+.textparent2 img{
+    width: 90%;
+    height: auto;
+}
+
+#logofooter{
+    width: 40px;
+}
+
+#contacto {
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 50px;
+}
+
+#linklogin a{
+    color: white;
+}
+
+.offcanvas-body a{
+    color: black;
+}
+
+.offcanvas-body a:hover{
+    color: black;
+    font-weight: bolder;
+}
+
+#randomtext{
+    color: red;
+}
+
+#randomtext2{
+    color: white;
+}
